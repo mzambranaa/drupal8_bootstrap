@@ -6361,6 +6361,8 @@ p:last-child,
     margin-top: 0; }
 
 body {
-  background: red; }
+  background: red;
+  text-transform: uppercase;
+  font-size: 15px; }
 
 /*# sourceMappingURL=style.css.map */
