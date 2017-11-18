@@ -6360,4 +6360,7 @@ p:last-child,
   .help-block:first-child, .control-group .help-inline:first-child {
     margin-top: 0; }
 
+body {
+  background: red; }
+
 /*# sourceMappingURL=style.css.map */
